@@ -1,0 +1,2040 @@
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 1 1024. 59.41301
+	image	apallrefspectrum
+	aperture	1
+	beam	1
+	center	1024. 59.41301
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		29.41121
+		-0.7261324
+		-1.708546
+		28.43102
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 2 1024. 75.67915
+	image	apallrefspectrum
+	aperture	2
+	beam	2
+	center	1024. 75.67915
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		28.42032
+		-0.3054399
+		-2.131306
+		30.50368
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 3 1024. 92.67146
+	image	apallrefspectrum
+	aperture	3
+	beam	3
+	center	1024. 92.67146
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		28.74288
+		-0.4146194
+		-2.139794
+		29.82715
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 4 1024. 109.2541
+	image	apallrefspectrum
+	aperture	4
+	beam	4
+	center	1024. 109.2541
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		29.17411
+		-0.4109211
+		-2.077722
+		29.42454
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 5 1024. 126.3421
+	image	apallrefspectrum
+	aperture	5
+	beam	5
+	center	1024. 126.3421
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		29.42465
+		-0.4432189
+		-2.08227
+		29.02089
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 6 1024. 143.4292
+	image	apallrefspectrum
+	aperture	6
+	beam	6
+	center	1024. 143.4292
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		29.6405
+		-0.4131849
+		-2.103893
+		28.84737
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 7 1024. 160.7331
+	image	apallrefspectrum
+	aperture	7
+	beam	7
+	center	1024. 160.7331
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		29.87425
+		-0.3874297
+		-2.134766
+		28.67277
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 8 1024. 178.2392
+	image	apallrefspectrum
+	aperture	8
+	beam	8
+	center	1024. 178.2392
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		30.14479
+		-0.3662477
+		-2.165008
+		28.51322
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 9 1024. 195.9503
+	image	apallrefspectrum
+	aperture	9
+	beam	9
+	center	1024. 195.9503
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		30.39976
+		-0.3390791
+		-2.196361
+		28.36665
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 10 1024. 213.894
+	image	apallrefspectrum
+	aperture	10
+	beam	10
+	center	1024. 213.894
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		30.67871
+		-0.3143861
+		-2.235202
+		28.22133
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 11 1024. 232.0264
+	image	apallrefspectrum
+	aperture	11
+	beam	11
+	center	1024. 232.0264
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		30.97483
+		-0.2831168
+		-2.26693
+		28.04487
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 12 1024. 250.4283
+	image	apallrefspectrum
+	aperture	12
+	beam	12
+	center	1024. 250.4283
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		31.30729
+		-0.2651176
+		-2.296019
+		27.84058
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 13 1024. 269.0479
+	image	apallrefspectrum
+	aperture	13
+	beam	13
+	center	1024. 269.0479
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		31.58438
+		-0.2202024
+		-2.347305
+		27.72766
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 14 1024. 287.9507
+	image	apallrefspectrum
+	aperture	14
+	beam	14
+	center	1024. 287.9507
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		31.88011
+		-0.1823938
+		-2.400537
+		27.59949
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 15 1024. 307.073
+	image	apallrefspectrum
+	aperture	15
+	beam	15
+	center	1024. 307.073
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		32.19067
+		-0.1350429
+		-2.44875
+		27.47912
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 16 1024. 326.4805
+	image	apallrefspectrum
+	aperture	16
+	beam	16
+	center	1024. 326.4805
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		32.49936
+		-0.08723259
+		-2.504426
+		27.37945
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 17 1024. 346.1878
+	image	apallrefspectrum
+	aperture	17
+	beam	17
+	center	1024. 346.1878
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		32.84313
+		-0.05029202
+		-2.556871
+		27.23468
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 18 1024. 366.1611
+	image	apallrefspectrum
+	aperture	18
+	beam	18
+	center	1024. 366.1611
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		33.16117
+		-1.068115E-4
+		-2.617108
+		27.12633
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 19 1024. 386.4163
+	image	apallrefspectrum
+	aperture	19
+	beam	19
+	center	1024. 386.4163
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		33.4939
+		0.05516863
+		-2.682854
+		27.04337
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 20 1024. 406.9687
+	image	apallrefspectrum
+	aperture	20
+	beam	20
+	center	1024. 406.9687
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		33.84076
+		0.1086478
+		-2.746844
+		26.9454
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 21 1024. 427.8201
+	image	apallrefspectrum
+	aperture	21
+	beam	21
+	center	1024. 427.8201
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		34.2083
+		0.161201
+		-2.805902
+		26.82183
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 22 1024. 449.0006
+	image	apallrefspectrum
+	aperture	22
+	beam	22
+	center	1024. 449.0006
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		34.58758
+		0.211658
+		-2.869344
+		26.69865
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 23 1024. 470.4936
+	image	apallrefspectrum
+	aperture	23
+	beam	23
+	center	1024. 470.4936
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		34.94794
+		0.2733154
+		-2.942611
+		26.61008
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 24 1024. 492.3251
+	image	apallrefspectrum
+	aperture	24
+	beam	24
+	center	1024. 492.3251
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		35.36299
+		0.3262722
+		-3.01284
+		26.49506
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 25 1024. 514.4994
+	image	apallrefspectrum
+	aperture	25
+	beam	25
+	center	1024. 514.4994
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		35.66722
+		0.408174
+		-3.107951
+		26.46434
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 26 1024. 536.995
+	image	apallrefspectrum
+	aperture	26
+	beam	26
+	center	1024. 536.995
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		36.07551
+		0.466089
+		-3.174075
+		26.31615
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 27 1024. 559.8386
+	image	apallrefspectrum
+	aperture	27
+	beam	27
+	center	1024. 559.8386
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		36.47757
+		0.5331969
+		-3.256034
+		26.22453
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 28 1024. 583.0353
+	image	apallrefspectrum
+	aperture	28
+	beam	28
+	center	1024. 583.0353
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		36.87561
+		0.6037381
+		-3.339963
+		26.11789
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 29 1024. 606.5929
+	image	apallrefspectrum
+	aperture	29
+	beam	29
+	center	1024. 606.5929
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		37.28981
+		0.6756053
+		-3.42805
+		26.01586
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 30 1024. 630.5163
+	image	apallrefspectrum
+	aperture	30
+	beam	30
+	center	1024. 630.5163
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		37.7132
+		0.7466843
+		-3.514043
+		25.89879
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 31 1024. 654.7906
+	image	apallrefspectrum
+	aperture	31
+	beam	31
+	center	1024. 654.7906
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		38.1252
+		0.8308663
+		-3.607645
+		25.82144
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 32 1024. 679.4709
+	image	apallrefspectrum
+	aperture	32
+	beam	32
+	center	1024. 679.4709
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		38.58903
+		0.8992064
+		-3.692153
+		25.6757
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 33 1024. 704.5325
+	image	apallrefspectrum
+	aperture	33
+	beam	33
+	center	1024. 704.5325
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		39.01289
+		0.9856181
+		-3.795365
+		25.59475
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 34 1024. 729.9818
+	image	apallrefspectrum
+	aperture	34
+	beam	34
+	center	1024. 729.9818
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		39.46585
+		1.069217
+		-3.892595
+		25.48254
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 35 1024. 755.8403
+	image	apallrefspectrum
+	aperture	35
+	beam	35
+	center	1024. 755.8403
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		39.95211
+		1.14568
+		-3.984556
+		25.33485
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 36 1024. 782.1002
+	image	apallrefspectrum
+	aperture	36
+	beam	36
+	center	1024. 782.1002
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		40.41343
+		1.237768
+		-4.092471
+		25.24328
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 37 1024. 808.7805
+	image	apallrefspectrum
+	aperture	37
+	beam	37
+	center	1024. 808.7805
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		40.89741
+		1.327362
+		-4.19805
+		25.13067
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 38 1024. 835.8822
+	image	apallrefspectrum
+	aperture	38
+	beam	38
+	center	1024. 835.8822
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		41.41314
+		1.412164
+		-4.295395
+		24.97134
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 39 1024. 863.4308
+	image	apallrefspectrum
+	aperture	39
+	beam	39
+	center	1024. 863.4308
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		41.92638
+		1.501077
+		-4.40359
+		24.82955
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 40 1024. 891.4127
+	image	apallrefspectrum
+	aperture	40
+	beam	40
+	center	1024. 891.4127
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		42.43138
+		1.599939
+		-4.518879
+		24.71002
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 41 1024. 919.8503
+	image	apallrefspectrum
+	aperture	41
+	beam	41
+	center	1024. 919.8503
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		42.9677
+		1.6943
+		-4.631341
+		24.55972
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 42 1024. 948.7518
+	image	apallrefspectrum
+	aperture	42
+	beam	42
+	center	1024. 948.7518
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		43.4993
+		1.793396
+		-4.750335
+		24.41446
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 43 1024. 978.1064
+	image	apallrefspectrum
+	aperture	43
+	beam	43
+	center	1024. 978.1064
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		44.03822
+		1.900021
+		-4.873206
+		24.27971
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 44 1024. 1007.946
+	image	apallrefspectrum
+	aperture	44
+	beam	44
+	center	1024. 1007.946
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		44.62034
+		2.00939
+		-5.00339
+		24.15531
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 45 1024. 1038.299
+	image	apallrefspectrum
+	aperture	45
+	beam	45
+	center	1024. 1038.299
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		45.175
+		2.110666
+		-5.118924
+		23.95248
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 46 1024. 1069.125
+	image	apallrefspectrum
+	aperture	46
+	beam	46
+	center	1024. 1069.125
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		45.76915
+		2.21796
+		-5.2442
+		23.76495
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 47 1024. 1100.451
+	image	apallrefspectrum
+	aperture	47
+	beam	47
+	center	1024. 1100.451
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		46.38665
+		2.328705
+		-5.374007
+		23.59162
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 48 1024. 1132.302
+	image	apallrefspectrum
+	aperture	48
+	beam	48
+	center	1024. 1132.302
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		46.98732
+		2.447949
+		-5.51471
+		23.42652
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 49 1024. 1164.679
+	image	apallrefspectrum
+	aperture	49
+	beam	49
+	center	1024. 1164.679
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		47.63141
+		2.562592
+		-5.650577
+		23.23281
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 50 1024. 1197.593
+	image	apallrefspectrum
+	aperture	50
+	beam	50
+	center	1024. 1197.593
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		48.26141
+		2.689239
+		-5.796994
+		23.05287
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 51 1024. 1231.056
+	image	apallrefspectrum
+	aperture	51
+	beam	51
+	center	1024. 1231.056
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		48.93388
+		2.811014
+		-5.939844
+		22.84549
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 52 1024. 1265.087
+	image	apallrefspectrum
+	aperture	52
+	beam	52
+	center	1024. 1265.087
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		49.59597
+		2.942838
+		-6.096015
+		22.66692
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 53 1024. 1299.666
+	image	apallrefspectrum
+	aperture	53
+	beam	53
+	center	1024. 1299.666
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		50.30493
+		3.077865
+		-6.248035
+		22.47355
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 54 1024. 1334.867
+	image	apallrefspectrum
+	aperture	54
+	beam	54
+	center	1024. 1334.867
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		51.03156
+		3.209131
+		-6.407819
+		22.25793
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 55 1024. 1370.637
+	image	apallrefspectrum
+	aperture	55
+	beam	55
+	center	1024. 1370.637
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		51.76192
+		3.355824
+		-6.574546
+		22.06595
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 56 1024. 1407.043
+	image	apallrefspectrum
+	aperture	56
+	beam	56
+	center	1024. 1407.043
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		52.49204
+		3.506816
+		-6.750808
+		21.86201
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 57 1024. 1444.062
+	image	apallrefspectrum
+	aperture	57
+	beam	57
+	center	1024. 1444.062
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		53.27209
+		3.659805
+		-6.924386
+		21.64065
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 58 1024. 1481.739
+	image	apallrefspectrum
+	aperture	58
+	beam	58
+	center	1024. 1481.739
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		54.06118
+		3.817287
+		-7.108202
+		21.42575
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 59 1024. 1520.081
+	image	apallrefspectrum
+	aperture	59
+	beam	59
+	center	1024. 1520.081
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		54.83507
+		3.988995
+		-7.304511
+		21.21303
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 60 1024. 1559.121
+	image	apallrefspectrum
+	aperture	60
+	beam	60
+	center	1024. 1559.121
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		55.654
+		4.154037
+		-7.500816
+		20.97557
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 61 1024. 1598.805
+	image	apallrefspectrum
+	aperture	61
+	beam	61
+	center	1024. 1598.805
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		56.50918
+		4.332592
+		-7.696887
+		20.72696
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 62 1024. 1639.257
+	image	apallrefspectrum
+	aperture	62
+	beam	62
+	center	1024. 1639.257
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		57.40732
+		4.500599
+		-7.902318
+		20.42119
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 63 1024. 1680.38
+	image	apallrefspectrum
+	aperture	63
+	beam	63
+	center	1024. 1680.38
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		58.39206
+		4.6752
+		-8.096089
+		20.10184
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 64 1024. 1722.302
+	image	apallrefspectrum
+	aperture	64
+	beam	64
+	center	1024. 1722.302
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		59.29389
+		4.874036
+		-8.326505
+		19.83242
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 65 1024. 1765.364
+	image	apallrefspectrum
+	aperture	65
+	beam	65
+	center	1024. 1765.364
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		60.2051
+		5.00397
+		-8.60556
+		19.38077
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 66 1024. 1808.583
+	image	apallrefspectrum
+	aperture	66
+	beam	66
+	center	1024. 1808.583
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		61.22652
+		5.252849
+		-8.794602
+		19.09663
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 67 1024. 1852.661
+	image	apallrefspectrum
+	aperture	67
+	beam	67
+	center	1024. 1852.661
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		62.36314
+		5.477115
+		-8.94854
+		18.50905
+
+# Wed 18:44:53 31-Jul-2019
+begin	aperture apallrefspectrum 68 1024. 1898.17
+	image	apallrefspectrum
+	aperture	68
+	beam	68
+	center	1024. 1898.17
+	low	-1023. -5.
+	high	1024. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		3.
+		1.
+		1.
+		2048.
+		62.50044
+		5.774984
+		-9.354612
+		18.42809
+
