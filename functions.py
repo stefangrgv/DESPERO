@@ -1,3 +1,17 @@
+###################################################################
+#
+#   Functions for the
+#   Data reduction pipeline for ESPERO @ NAO Rozhen
+#
+#
+#   Stefan Georgiev
+#   stefan.grgv@gmail.com
+#
+#   last modification: 2 September 2020
+#
+#
+###################################################################
+
 import numpy as np
 import datetime
 import shutil
